@@ -1,4 +1,4 @@
-# ppe
+# Public Planet Earth
 
 ## Intro
 
